@@ -1,0 +1,10 @@
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\bin\Debug\ProgressBarComplete.exe.config
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\bin\Debug\ProgressBarComplete.exe
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\bin\Debug\ProgressBarComplete.pdb
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.csproj.AssemblyReference.cache
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.Form1.resources
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.Properties.Resources.resources
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.csproj.GenerateResource.cache
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.exe
+D:\DotNetWorking\ProgressBarComplete\ProgressBarComplete\obj\Debug\ProgressBarComplete.pdb

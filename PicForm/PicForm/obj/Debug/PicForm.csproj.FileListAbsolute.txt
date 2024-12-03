@@ -1,0 +1,10 @@
+D:\DotNetWorking\PicForm\PicForm\bin\Debug\PicForm.exe.config
+D:\DotNetWorking\PicForm\PicForm\bin\Debug\PicForm.exe
+D:\DotNetWorking\PicForm\PicForm\bin\Debug\PicForm.pdb
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.csproj.AssemblyReference.cache
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.Form1.resources
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.Properties.Resources.resources
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.csproj.GenerateResource.cache
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.csproj.CoreCompileInputs.cache
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.exe
+D:\DotNetWorking\PicForm\PicForm\obj\Debug\PicForm.pdb
